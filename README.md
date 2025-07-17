@@ -45,7 +45,7 @@ php artisan serve
 * ✅ Form Tambah/Edit Jurnal
 * ✅ Tabel Jurnal
 
-*(Tambahkan screenshot di sini jika tersedia)*
+
 
 ✍️ Kontribusi
 
